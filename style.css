@@ -1,0 +1,30 @@
+
+.class1,.class2,.class3
+{
+    background-color: rgb(220, 200, 223); border-radius:15px ;
+}
+
+.line11,.line12,.line13
+{
+    width:60px; height:15px; background-color:red; border-radius:5px; cursor: pointer;margin:5px 5px;
+}
+.line21,.line31,.line22,.line32,.line23,.line33
+{
+    width:15px; height:15px; background-color:whitesmoke; border-radius:50%; cursor: pointer;margin:5px 5px;
+}
+
+.slider1,.slider2,.slider3
+{
+    display: flex;
+    position: absolute; 
+    left:70%;
+    transform: rotate(90deg);
+}
+.myimage
+{
+    position: relative; right:20%;
+}
+.btn
+{
+    border-radius: 18px;
+}
